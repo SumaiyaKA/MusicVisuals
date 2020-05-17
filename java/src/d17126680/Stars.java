@@ -83,7 +83,7 @@ public class Stars extends Visual
         setFrameSize(256);
 
         startMinim();
-        loadAudio("pendulum.mp3");
+        loadAudio("DansLaMaison.mp3");
         
 
         for (int i = 0; i < star.length; i++) {

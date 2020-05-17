@@ -64,7 +64,7 @@ This is an image of the code while running:
 
 This is my assignment youtube video:
 
-[![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://youtu.be/q1L98ofnGVI)
+[![YouTube](images/2ndCube.png)](https://youtu.be/q1L98ofnGVI)
 
 This is menu of keys and their description :
 
